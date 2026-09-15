@@ -72,5 +72,5 @@ Quá trình đăng nhập được thực hiện tuần tự và có kiểm tra 
 ---
 
 ## Tác giả
-- CNTT5 - Phân tích và Thiết kế Hệ thống
+- CNTT5 - Phạm Đình Thương
 - Session 10 - Login RikkeiShop
